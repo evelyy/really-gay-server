@@ -5,6 +5,9 @@ step 1: download zerotier and polymc
 https://www.zerotier.com/
 https://polymc.org/
 
+u also might need to install java 19
+https://download.oracle.com/java/19/archive/jdk-19.0.2_windows-x64_bin.exe
+
 step 2: log in to polymc, set maximum ram to about 6-8 gigabytes, add instance (top left) -> curseforge -> download "all the mods 8"
 
 step 3: join zerotier network with id: a84ac5c10a5c1674
