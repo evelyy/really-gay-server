@@ -20,4 +20,4 @@ https://www.curseforge.com/minecraft/mc-mods/ore-excavation/download/3983796
 
 step 5: in polymc, click on your all the mods instance -> view mods (right hand side) -> add the mods you downloaded
 
-step 6: launch game, add multiplayer server with ip: 172.30.209.58:25565
+step 6: launch game, add multiplayer server with ip: 172.30.83.232:25565
