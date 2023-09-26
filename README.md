@@ -12,9 +12,9 @@ step 2: log in to polymc, set maximum ram to about 6-8 gigabytes, add instance (
 
 step 3: join zerotier network with id: a84ac5c10a5c1674
 
-step 4: download these two mods:
+step 4: download these mods:
 https://www.curseforge.com/minecraft/mc-mods/chisels-bits/download/4724660
-
+https://www.curseforge.com/minecraft/mc-mods/female-gender-forge/download/4603538
 https://www.curseforge.com/minecraft/mc-mods/ore-excavation/download/3983796
 
 
