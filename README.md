@@ -16,7 +16,7 @@ step 4: download these mods:
 
 https://www.curseforge.com/minecraft/mc-mods/chisels-bits/download/4724660
 
-https://www.curseforge.com/minecraft/mc-mods/female-gender-forge/download/4603538
+https://www.curseforge.com/minecraft/mc-mods/female-gender-forge/download/3920268
 
 https://www.curseforge.com/minecraft/mc-mods/ore-excavation/download/3983796
 
