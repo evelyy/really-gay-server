@@ -18,8 +18,25 @@ https://www.curseforge.com/minecraft/mc-mods/chisels-bits/download/4724660
 
 https://www.curseforge.com/minecraft/mc-mods/female-gender-forge/download/3920268
 
-https://www.curseforge.com/minecraft/mc-mods/ore-excavation/download/3983796
+https://www.curseforge.com/minecraft/mc-mods/create-confectionery/download/4561123
 
+https://www.curseforge.com/minecraft/mc-mods/interiors/download/4772067
+
+https://www.curseforge.com/minecraft/mc-mods/create-deco/download/4554164
+
+https://www.curseforge.com/minecraft/mc-mods/bellsandwhistles/download/4772898
+
+https://www.curseforge.com/minecraft/mc-mods/custom-player-models/download/4770052
+
+https://www.curseforge.com/minecraft/mc-mods/beautify-decorate/download/4036351
+
+https://www.curseforge.com/minecraft/mc-mods/fairy-lights/download/4111755
+
+https://www.curseforge.com/minecraft/mc-mods/chimes/download/4671793
+
+https://www.curseforge.com/minecraft/mc-mods/fantasys-furniture/download/4183177
+
+https://www.curseforge.com/minecraft/mc-mods/paladins-furniture/download/3966060
 
 step 5: in polymc, click on your all the mods instance -> view mods (right hand side) -> add the mods you downloaded
 
